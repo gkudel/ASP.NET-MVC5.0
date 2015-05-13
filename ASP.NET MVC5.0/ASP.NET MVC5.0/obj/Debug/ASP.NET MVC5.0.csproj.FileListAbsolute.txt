@@ -1,0 +1,55 @@
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\ASP.NET MVC5.0.dll.config
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\ASP.NET MVC5.0.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\ASP.NET MVC5.0.pdb
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Antlr3.Runtime.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\EntityFramework.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\EntityFramework.SqlServer.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.Google.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Web.Infrastructure.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Newtonsoft.Json.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Owin.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.Helpers.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.Mvc.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.Optimization.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.Razor.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.WebPages.Deployment.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.WebPages.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.WebPages.Razor.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\WebGrease.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.Helpers.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.Mvc.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.Optimization.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.Razor.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.WebPages.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.WebPages.Deployment.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\System.Web.WebPages.Razor.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Antlr3.Runtime.pdb
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Newtonsoft.Json.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\EntityFramework.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\EntityFramework.SqlServer.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.Google.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\obj\Debug\ASP.NET MVC5.0.csprojResolveAssemblyReference.cache
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\obj\Debug\ASP.NET MVC5.0.dll
+D:\Education\ASP.NET MVC5.0\ASP.NET MVC5.0\ASP.NET MVC5.0\obj\Debug\ASP.NET MVC5.0.pdb
