@@ -15,9 +15,24 @@ namespace ASP.NET_MVC5._0.Controllers
         private MovieDBContext db = new MovieDBContext();
 
         // GET: Movies
-        public ActionResult Index()
+        public ActionResult Index(string GenreList, string searchString)
         {
-            return View(db.Movies.ToList());
+            var genreList = new List<string>();
+            var queryGenre = db.Movies.OrderBy(r => r.Genre).Select(r => r.Genre);
+            genreList.AddRange(queryGenre.Distinct());
+
+            ViewBag.GenreList = new SelectList(genreList);
+
+            var query = db.Movies.AsEnumerable();
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                query = query.Where(r => r.Title.ToUpper().Contains(searchString.ToUpper()));
+            }
+            if (!String.IsNullOrEmpty(GenreList))
+            {
+                query = query.Where(r => r.Genre.ToUpper() == GenreList.ToUpper());
+            }
+            return View(query.ToList());
         }
 
         // GET: Movies/Details/5
